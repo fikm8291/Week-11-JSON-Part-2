@@ -12,7 +12,7 @@
         "title": "The Mystery of the Bug",
         "author": "Sherlock Py",
         "genre": "Fiction",
-        "price": 15.50,
+        "price": 15.5,
         "stock": 5
     },
     {
@@ -20,7 +20,7 @@
         "title": "Space Adventures",
         "author": "Elon M.",
         "genre": "Sci-Fi",
-        "price": 22.00,
+        "price": 22.0,
         "stock": 0
     },
     {
@@ -28,7 +28,7 @@
         "title": "Cooking with Data",
         "author": "Chef Pandas",
         "genre": "Cooking",
-        "price": 35.00,
+        "price": 35.0,
         "stock": 8
     },
     {
@@ -36,7 +36,7 @@
         "title": "Algorithms 101",
         "author": "Ada L.",
         "genre": "Education",
-        "price": 50.00,
+        "price": 50.0,
         "stock": 3
     }
 ]
