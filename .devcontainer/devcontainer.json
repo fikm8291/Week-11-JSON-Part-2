@@ -1,0 +1,18 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:latest",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens",
+        "MS-vsliveshare.vsliveshare",
+        "streetsidesoftware.code-spell-checker",
+        "oderwat.indent-rainbow",
+        "zhuangtongfa.Material-theme",
+        "ritwickdey.LiveServer"
+      ]
+    }
+  }
+}
