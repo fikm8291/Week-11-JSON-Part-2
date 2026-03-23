@@ -1,5 +1,5 @@
 # -------------------------------------------
-# Exercise 1: Manchester Central Library Archive
+# Exercise 2: Manchester Central Library Archive
 # -------------------------------------------
 # NEW CONCEPT: What is JSON?
 # JSON (JavaScript Object Notation) is a way to store data in a text file.
